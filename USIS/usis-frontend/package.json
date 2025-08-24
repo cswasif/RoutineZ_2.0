@@ -43,7 +43,7 @@
     ]
   },
   "engines": {
-    "node": "18.x"
+    "node": "22.x"
   },
   "devDependencies": {
     "@radix-ui/react-dropdown-menu": "^2.1.15",
