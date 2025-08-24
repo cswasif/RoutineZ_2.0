@@ -6,6 +6,6 @@
     "build": "cd USIS/usis-frontend && npm install && npm run build"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": "18.x"
   }
 }
